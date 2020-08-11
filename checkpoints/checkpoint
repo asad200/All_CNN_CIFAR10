@@ -1,0 +1,2 @@
+model_checkpoint_path: "Epochs_50"
+all_model_checkpoint_paths: "Epochs_50"
