@@ -1,1 +1,1 @@
-# All_CNN_CIFAR10
+# All CNN for CIAFAR10 dataset
