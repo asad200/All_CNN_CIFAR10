@@ -4,5 +4,6 @@ The model used in this project is based on the resarch paper [Striving for Simpl
 ![AllCNN_Model](https://user-images.githubusercontent.com/19656640/98032219-f810e200-1e13-11eb-8b20-78fe6b5bb9a4.png)
 
 ## Results
+The model reached the accuracy: 0.9572 and val_accuracy: 0.8255 without using any data augmentaion. 
 Some of the results can been seen here.
 ![Results](https://user-images.githubusercontent.com/19656640/98033460-cf89e780-1e15-11eb-98e4-f412064e9830.png)
